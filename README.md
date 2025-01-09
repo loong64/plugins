@@ -1,4 +1,4 @@
-[![build](https://github.com/loong64/plugins/actions/workflows/build.yaml/badge.svg)](https://github.com/loong64/plugins/actions/workflows/build.yaml?query=branch%3Amaster)
+[![build](https://github.com/loong64/plugins/actions/workflows/release.yaml/badge.svg?branch=master)](https://github.com/loong64/plugins/actions/workflows/release.yaml)
 
 # Plugins
 Some CNI network plugins, maintained by the containernetworking team. For more information, see the [CNI website](https://www.cni.dev).
